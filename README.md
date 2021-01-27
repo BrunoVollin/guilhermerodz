@@ -6,7 +6,7 @@
 [![YouTube Badge](https://img.shields.io/badge/youtube--%2300EBEB?style=for-the-badge&logo=youtube)](https://youtube.com/guilhermerodz)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermerodz)
 
-Content creator for my personal channel and instructor at Rocketseat.
+Content creator for my personal channel and instructor at Rocketseat.  
 I mentored at the RS/XP 2019 Hackathon (São Paulo - Brazil), on which participated a thousand developers.
 
 - 🎥 I taught tens of thousands of developers on [YouTube](https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp), every week.
